@@ -1,0 +1,15 @@
+Hello File in a bufferedwritter!
+This is the second line
+This is the third line
+new Hello File in a bufferedwritter!
+new This is the second line
+new This is the third line
+Hello File in a bufferedwritter!
+This is the second line
+This is the third line
+Hello File in a bufferedwritter!
+This is the second line
+This is the third line
+Hello File in a bufferedwritter!
+This is the second line
+This is the third line
