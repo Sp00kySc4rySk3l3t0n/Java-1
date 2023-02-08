@@ -1,0 +1,40 @@
+Personaje [nombre=JOSE ANTONIO] VS Personaje [nombre=SERGIO]
+El Personaje [nombre=JOSE ANTONIO] numero 2, genera 2 de DMG, contra Personaje [nombre=SERGIO] numero 4 con una vida de 4
+Personaje [nombre=SERGIO] Sigue vivo
+
+Le queda 2 de vida
+
+Personaje [nombre=JAVIER] VS Personaje [nombre=JOSE ANTONIO]
+El Personaje [nombre=JAVIER] numero 3, genera 2 de DMG, contra Personaje [nombre=JOSE ANTONIO] numero 2 con una vida de 4
+Personaje [nombre=JOSE ANTONIO] Sigue vivo
+
+Le queda 2 de vida
+
+Personaje [nombre=MANUEL] VS Personaje [nombre=JAVIER]
+El Personaje [nombre=MANUEL] numero 5, genera 2 de DMG, contra Personaje [nombre=JAVIER] numero 3 con una vida de 2
+Personaje [nombre=JAVIER] ELIMINADO
+
+Personaje [nombre=SERGIO] VS Personaje [nombre=Fran]
+El Personaje [nombre=SERGIO] numero 3, genera 2 de DMG, contra Personaje [nombre=Fran] numero 0 con una vida de 2
+Personaje [nombre=Fran] ELIMINADO
+
+Personaje [nombre=JOSE ANTONIO] VS Personaje [nombre=JOSE ANTONIO]
+El Personaje [nombre=JOSE ANTONIO] numero 1, genera 2 de DMG, contra Personaje [nombre=JOSE ANTONIO] numero 0 con una vida de 2
+Personaje [nombre=JOSE ANTONIO] ELIMINADO
+
+Personaje [nombre=SERGIO] VS Personaje [nombre=MANUEL]
+El Personaje [nombre=SERGIO] numero 1, genera 2 de DMG, contra Personaje [nombre=MANUEL] numero 2 con una vida de 4
+Personaje [nombre=MANUEL] Sigue vivo
+
+Le queda 2 de vida
+
+Personaje [nombre=JOSE ANTONIO] VS Personaje [nombre=MANUEL]
+El Personaje [nombre=JOSE ANTONIO] numero 0, genera 2 de DMG, contra Personaje [nombre=MANUEL] numero 2 con una vida de 2
+Personaje [nombre=MANUEL] ELIMINADO
+
+Personaje [nombre=SERGIO] VS Personaje [nombre=JOSE ANTONIO]
+El Personaje [nombre=SERGIO] numero 1, genera 2 de DMG, contra Personaje [nombre=JOSE ANTONIO] numero 0 con una vida de 2
+Personaje [nombre=JOSE ANTONIO] ELIMINADO
+
+
+Ganador! Personaje [nombre=SERGIO]
